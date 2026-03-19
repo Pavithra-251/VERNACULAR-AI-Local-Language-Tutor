@@ -1,0 +1,7 @@
+{
+  "name": "Vernacular",
+  "description": "AI Local Language Tutor that teaches slang, dialects, and city-specific culture through real-life scenarios.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
